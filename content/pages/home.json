@@ -11,13 +11,13 @@
     "textline": "私たちは",
     "ctas": [
       {
-        "label": "Read The Blog",
+        "label": "ブログ",
         "link": "/blog",
         "primary": true,
         "arrow": true
       },
       {
-        "label": "Contact Us",
+        "label": "連絡先",
         "link": "/contact",
         "arrow": false,
         "primary": false
