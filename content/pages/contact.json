@@ -42,7 +42,8 @@
           "_template": "messageInputBlock"
         }
       ],
-      "content": ""
+      "content": "",
+      "recipient": "gogokounan@gmail.com"
     }
   ],
   "displayTitle": true
