@@ -13,10 +13,6 @@
       "link": "/application"
     },
     {
-      "label": "ブログ",
-      "link": "/blog"
-    },
-    {
       "label": "連絡先",
       "link": "/contact"
     }
