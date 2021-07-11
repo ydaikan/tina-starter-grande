@@ -1,0 +1,18 @@
+{
+  "title": "生徒募集",
+  "path": "/application",
+  "blocks": [
+    {
+      "title": "",
+      "center": false,
+      "underline": true,
+      "_template": "TitleBlock",
+      "content": ""
+    },
+    {
+      "content": "",
+      "center": false,
+      "_template": "ContentBlock"
+    }
+  ]
+}
