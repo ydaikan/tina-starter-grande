@@ -1,10 +1,6 @@
 {
   "menuItems": [
     {
-      "label": "ブログ",
-      "link": "/blog"
-    },
-    {
       "label": "ホーム",
       "link": "/"
     },
@@ -15,6 +11,10 @@
     {
       "label": "生徒募集",
       "link": "/application"
+    },
+    {
+      "label": "ブログ",
+      "link": "/blog"
     },
     {
       "label": "連絡先",
