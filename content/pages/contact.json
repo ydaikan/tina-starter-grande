@@ -13,19 +13,30 @@
       "name": "Contact Form",
       "fields": [
         {
-          "label": "Name",
+          "label": "お名前",
           "inputType": "text",
           "autocomplete": "name",
           "_template": "nameInputBlock"
         },
         {
-          "label": "Email",
+          "label": "メールアドレス",
           "inputType": "text",
           "autocomplete": "email",
           "_template": "emailInputBlock"
         },
         {
-          "label": "Message",
+          "_template": "customInputBlock",
+          "label": "学校名・学年",
+          "inputType": "text"
+        },
+        {
+          "label": "電話番号",
+          "inputType": "number",
+          "autocomplete": "tel",
+          "_template": "phoneInputBlock"
+        },
+        {
+          "label": "備考",
           "inputType": "textarea",
           "autocomplete": "",
           "_template": "messageInputBlock"
