@@ -1,6 +1,10 @@
 {
   "menuItems": [
     {
+      "label": "ブログ",
+      "link": "/blog"
+    },
+    {
       "label": "ホーム",
       "link": "/"
     },
